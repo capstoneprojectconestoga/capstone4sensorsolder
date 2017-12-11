@@ -4,6 +4,7 @@
   *PROJECT		  :  Truck space detection system
   *PROGRAMMER     :  Nimal krishna
   *FIRST VERSION  :  07/10/2017
+  *LAST VERSION   :  10/12/2017t a
   *DESCRIPTION    :  This project is  for detecting the free space available in the commercial trucks using the
   *				  :   UV sensor
   *				  :   echo pin->PA0;Trig->PE10
